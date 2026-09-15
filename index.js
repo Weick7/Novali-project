@@ -286,3 +286,31 @@ async function loadConcepts() {
 }
 
 loadConcepts();
+
+const menuToggle = document.querySelector(".menu-toggle");
+const mainMenu = document.getElementById("main-menu");
+
+if (menuToggle && mainMenu) {
+  menuToggle.addEventListener("click", () => {
+    const isOpen = mainMenu.classList.toggle("is-open");
+    menuToggle.setAttribute("aria-expanded", String(isOpen));
+    menuToggle.setAttribute("aria-label", isOpen ? "Close menu" : "Open menu");
+  });
+
+  document.addEventListener("click", (event) => {
+    if (!mainMenu.contains(event.target) && !menuToggle.contains(event.target)) {
+      mainMenu.classList.remove("is-open");
+      menuToggle.setAttribute("aria-expanded", "false");
+      menuToggle.setAttribute("aria-label", "Open menu");
+    }
+  });
+
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape") {
+      mainMenu.classList.remove("is-open");
+      menuToggle.setAttribute("aria-expanded", "false");
+      menuToggle.setAttribute("aria-label", "Open menu");
+      menuToggle.focus();
+    }
+  });
+}
