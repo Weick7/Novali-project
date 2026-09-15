@@ -25,7 +25,7 @@ p {
   --second-text: #0b0813;
   --theme: #f038ff;
   --border-r: 12px;
-  --matcing-pading: 0 60px 20px;
+  --matcing-pading: 0 60px;
 }
 
 body {
@@ -39,7 +39,6 @@ body {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  gap: 30px;
 }
 
 header {
@@ -153,7 +152,7 @@ header img:hover {
   display: flex;
   flex-direction: column;
   padding: var(--matcing-pading);
-  padding-bottom: 5px;
+  padding-top: 20px;
   gap: 30px;
 }
 
@@ -162,6 +161,7 @@ header img:hover {
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   gap: 24px;
   padding: var(--matcing-pading);
+  padding-bottom: 0;
   padding-bottom: 10px;
 }
 
@@ -170,7 +170,7 @@ header img:hover {
   grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
   gap: 16px;
   padding: var(--matcing-pading);
-  padding-bottom: 10px;
+  padding-bottom: 0;
 }
 
 #conceptsParent a {
@@ -401,6 +401,7 @@ header img:hover {
 
 .show-more-div {
   padding: var(--matcing-pading);
+  padding-bottom: 0;
 }
 
 
@@ -663,10 +664,14 @@ header img:hover {
   }
 
   .concept-div,
-  .show-more-div,
   .content {
-    padding: 20px;
+    padding:  20px 20px 0;
   }
+
+    .show-more-div{
+      padding:0 20px 40px;
+    }
+
 
   .content span {
     font-size: 0.9rem;
