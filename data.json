@@ -1,0 +1,331 @@
+[
+  {
+    "id": "1",
+    "title": "Quasars",
+    "img": "images/quasars.jpg",
+    "definition": "Quasars (Quasi-Stellar Radio Sources) are the most luminous and energetic object types known in the universe. Located at the centers of distant galaxies, a single quasar can outshine all the hundreds of billions of stars in its host galaxy combined. From a distance of billions of light-years, they appear as star-like points of light, but they are actually powered by supermassive black holes feeding on vast amounts of surrounding matter.",
+    "cause": "The phenomena is caused by accretion onto a supermassive black hole at the galactic core. As gas, dust, and stellar material fall toward the black hole, they do not plunge in directly. Instead, the material forms a rapidly spinning accretion disk. Gravitational forces and intense friction within this disk heat the matter to millions of degrees, causing it to glow intensely across the electromagnetic spectrum and launch relativistic jets of plasma into space.",
+    "explanation": "To understand quasars, we must explore the physical mechanics of supermassive black holes, which typically range from millions to billions of solar masses. As matter enters the accretion disk, extreme gravitational shear converts potential energy into radiation with up to 10% efficiency—far more efficient than nuclear fusion inside stars. Furthermore, the strong magnetic fields around the spinning black hole channel charged particles toward the poles, accelerating them close to the speed of light to form massive relativistic jets. Because quasars consume massive amounts of gas, they were far more common in the early universe when galaxies were rich in cold gas. As the black hole consumes or blows away its surrounding matter, the quasar eventually starves and becomes a dormant supermassive black hole, similar to Sagittarius A* at the center of our own Milky Way."
+  },
+
+{
+    "id": "2",
+    "title": "Neutron Stars",
+    "img": "images/neutron_stars.jpg",
+    "definition": "Neutron stars are the collapsed cores of massive supergiant stars, representing the densest observable objects in the universe short of black holes. Despite having a diameter of only about 20 kilometers (roughly the size of a city), a neutron star packs a mass roughly 1.4 to 2.1 times that of our Sun. A single teaspoon of neutron star material would weigh billions of tons on Earth.",
+    "cause": "The phenomena is caused when a massive star (between 8 and 20 solar masses) exhausts its nuclear fuel and undergoes a catastrophic core-collapse, exploding as a supernova. The violent gravitational compression forces protons and electrons together to form neutrons, leaving behind an incredibly dense core composed almost entirely of tightly packed neutrons.",
+    "explanation": "To understand neutron stars, we must look at neutron degeneracy pressure, a quantum mechanical effect that prevents the star from collapsing further into a black hole. Neutron stars possess extreme magnetic fields millions to trillions of times stronger than Earth's and rotate at incredible speeds—up to hundreds of times per second—due to the conservation of angular momentum. Some neutron stars emit focused beams of electromagnetic radiation from their magnetic poles and are observed as Pulsars, while those with ultra-strong magnetic fields are known as Magnetars."
+  },
+  {
+    "id": "3",
+    "title": "Gamma-Ray Bursts",
+    "img": "images/gamma_ray_bursts.jpg",
+    "definition": "Gamma-Ray Bursts (GRBs) are the most energetic and luminous electromagnetic explosions known in the universe since the Big Bang. These intense flashes of high-energy gamma radiation can last from a few milliseconds to several minutes, releasing as much energy in a matter of seconds as the Sun will produce across its entire 10-billion-year lifespan.",
+    "cause": "The phenomena is caused by extreme cosmic catastrophes and is categorized into two main types: long-duration GRBs (lasting more than two seconds), which occur when a rapidly spinning massive star collapses into a black hole during a hypernova explosion; and short-duration GRBs (lasting less than two seconds), which result from the violent merger of two compact objects, such as two neutron stars or a neutron star and a black hole.",
+    "explanation": "To understand Gamma-Ray Bursts, we must examine the relativistic physics of accretion-powered jets. When a black hole forms during a collapse or merger, it consumes surrounding matter and launches narrow jets of plasma at ultra-relativistic speeds (over 99.99% the speed of light). Shockwaves within these jets convert kinetic energy into intense gamma rays. This initial flash is followed by a fading 'afterglow' visible across X-ray, optical, and radio wavelengths, allowing astronomers to study these events across billions of light-years."
+  },
+  {
+    "id": "4",
+    "title": "Gravitational Lensing",
+    "img": "images/gravitational_lensing.jpg",
+    "definition": "Gravitational lensing occurs when a massive celestial body—such as a galaxy cluster or a supermassive black hole—bends the path of light traveling from a background source behind it, acting as a cosmic magnifying glass.",
+    "cause": "The phenomena is caused by the deformation of spacetime, as predicted by Einstein's theory of General Relativity. Massive objects distort the structure of spacetime around them, causing light rays passing nearby to bend along curved paths rather than traveling in straight lines.",
+    "explanation": "To understand gravitational lensing, we examine how mass curves light paths in deep space. Depending on the alignment of the background object, foreground lens, and observer, this effect can produce distorted, amplified, or multiple images of distant galaxies (such as Einstein rings or arcs). Strong lensing allows astronomers to peer deeper into the early universe than telescopes could normally achieve, while weak lensing helps map the invisible distribution of dark matter across large cosmic structures."
+  },
+  {
+    "id": "5",
+    "title": "Oort Cloud and Comets",
+    "img": "images/oort_cloud.jpg",
+    "definition": "The Oort Cloud is a vast, theoretical spherical shell of icy planetesimals surrounding the Solar System at extreme distances, serving as the primary reservoir for long-period comets.",
+    "cause": "The phenomena is caused by the gravitational dynamics of the early Solar System. Billions of years ago, the gas giant planets gravitationally scattered icy planetesimals outward into distant orbits, where galactic tidal forces and nearby passing stars stabilized them into a spherical halo.",
+    "explanation": "To understand the Oort Cloud and comets, we look at frozen remnants from the dawn of planet formation. Located between 2,000 and 100,000 astronomical units (AU) from the Sun, objects in the Oort Cloud remain frozen for billions of years. When a passing star gravitational perturbation nudges an icy body out of its orbit, it falls toward the inner Solar System. As it approaches the Sun, solar radiation sublimates its volatile ice, creating a glowing coma and ion/dust tails spanning millions of kilometers."
+  },
+  {
+    "id": "6",
+    "title": "Dark Nebulae",
+    "img": "images/dark_nebulae.jpg",
+    "definition": "Dark nebulae (or absorption nebulae) are dense interstellar clouds of interstellar dust and cold molecular gas that completely block or absorb visible light coming from stars or bright nebulae behind them.",
+    "cause": "The phenomena is caused by high concentration of microscopic interstellar dust grains—composed mainly of carbon, silicates, and ice—suspended within cold molecular clouds. These grains scatter and absorb optical wavelengths of light far more effectively than longer radio or infrared waves.",
+    "explanation": "To understand dark nebulae, we must explore stellar nurseries and cold interstellar matter. Because these dense regions block ambient starlight, they appear as striking black silhouettes or voids against rich starry backgrounds (a famous example being the Horsehead Nebula). Dark nebulae maintain extremely low temperatures (10 to 30 Kelvin), allowing hydrogen gas to bind into molecules. Under their own gravity, regions within dark nebulae eventually collapse to form new stars and planetary systems."
+  },
+  {
+    "id": "7",
+    "title": "Galactic Mergers",
+    "img": "images/galactic_mergers.jpg",
+    "definition": "Galactic mergers are colossal cosmic collisions where two or more galaxies interact gravitationally, ultimately coalescing into a single, larger galaxy with altered structures and star formation dynamics.",
+    "cause": "The phenomena is caused by mutual gravitational attraction between neighboring galaxies bound within the same cosmic group or cluster. As galaxies pass close to each other, tidal forces strip away gas and stars, drawing the systems into a decaying orbital dance until they merge.",
+    "explanation": "To understand galactic mergers, we must study large-scale galaxy evolution over cosmic time. Despite containing billions of stars, individual stars rarely collide during a merger due to the vast empty space between them. However, massive gas clouds collide and compress violently, triggering intense bursts of rapid star creation known as 'starbursts.' Mergers also feed central supermassive black holes and dramatically transform spiral galaxies into featureless elliptical galaxies over hundreds of millions of years."
+  },
+  {
+    "id": "8",
+    "title": "Type Ia Supernovae",
+    "img": "images/type_ia_supernovae.jpg",
+    "definition": "Type Ia supernovae are extremely bright stellar explosions occurring in binary star systems, widely utilized by astrophysicists as 'standard candles' to measure cosmic distances and the expansion rate of the universe.",
+    "cause": "The phenomena is caused by runaway thermonuclear disruption in a white dwarf star. When a dense white dwarf steals gas from a companion star or merges with another white dwarf, its mass approaches the Chandrasekhar limit (1.44 solar masses), triggering an unstoppable nuclear fusion explosion that completely destroys the star.",
+    "explanation": "To understand Type Ia supernovae, we must look at binary star evolution and stellar remnants. Because white dwarfs consistently detonate at a specific critical mass threshold, Type Ia explosions exhibit remarkably uniform peak luminosity across the universe. By comparing their known intrinsic brightness to how faint they appear from Earth, astronomers can determine exact cosmic distances. Observations of distant Type Ia supernovae led to the groundbreaking discovery that the universe's expansion is accelerating under the influence of dark energy."
+  },
+  {
+    "id": "9",
+    "title": "Solar Wind and Geomagnetic Storms",
+    "img": "images/solar_wind.jpg",
+    "definition": "Solar wind consists of a continuous stream of charged particles (plasma) emitted by the Sun, which can interact violently with Earth's magnetosphere to trigger geomagnetic storms and vivid auroral displays.",
+    "cause": "The phenomena is caused by the extreme heat and magnetic activity of the solar corona, which accelerates electrons and protons beyond the Sun's gravitational pull. Solar flares and Coronal Mass Ejections (CMEs) inject massive bubbles of magnetized plasma into this solar wind.",
+    "explanation": "To understand solar wind and space weather, we examine particle interactions within planetary magnetic fields. When high-energy solar particle streams strike Earth's magnetic shield, they guide charged particles toward the polar upper atmosphere. These particles collide with oxygen and nitrogen atoms, energizing them to emit vibrant lights known as auroras (Northern and Southern Lights). Severe geomagnetic storms can also disrupt power grids, satellite operations, and global communication networks."
+  },
+  {
+    "id": "10",
+    "title": "Dark Matter Halos",
+    "img": "images/dark_matter.jpg",
+    "definition": "Dark matter halos are immense, invisible spherical envelopes of mysterious non-baryonic matter surrounding galaxies and galaxy clusters, providing the gravitational scaffolding needed to hold cosmic structures together.",
+    "cause": "The phenomena is inferred from galactic orbital velocity anomalies and large-scale cosmic structure formation. Visible matter alone does not provide enough gravity to keep rapidly spinning outer stars bound within galaxies, requiring an unseen mass distribution to prevent galaxies from flying apart.",
+    "explanation": "To understand dark matter halos, we look at cosmic physics beyond the electromagnetic spectrum. Dark matter does not emit, absorb, or reflect light, making it entirely invisible to traditional telescopes. However, its immense gravitational influence governs how galaxies rotate, collide, and cluster together. Accounting for roughly 85% of all matter in the universe, dark matter halos formed early in cosmic history, pulling normal matter into their gravitational wells to ignite the first stars and galaxies."
+  },
+  {
+    "id": "11",
+    "title": "Supermassive Black Holes",
+    "img": "images/supermassive_black_holes.jpg",
+    "definition": "Supermassive black holes are cosmic giants residing at the centers of almost all large galaxies, containing masses ranging from hundreds of thousands to tens of billions of solar masses packed into an infinitely dense region.",
+    "cause": "The phenomena is caused by the collapse of massive primordial gas clouds in the early universe or the continuous merging of smaller black holes and accretion of surrounding interstellar matter over billions of years.",
+    "explanation": "To understand supermassive black holes, we examine how their extreme gravitational force bends light around the event horizon, creating a distinctive photon ring and accretion shadow. Though invisible themselves, their powerful gravitational pull accelerates surrounding matter to near light speeds, governing galactic orbital dynamics and anchoring host galaxies like the Milky Way."
+  },
+  {
+    "id": "12",
+    "title": "Tidal Disruption Events",
+    "img": "images/tidal_disruption_events.jpg",
+    "definition": "A Tidal Disruption Event (TDE) occurs when a star wanders too close to a supermassive black hole and is violently ripped apart by the black hole's extreme differential gravitational forces.",
+    "cause": "The phenomena is caused by intense gravitational tidal forces that overcome the star's own self-gravity. As the star reaches the tidal radius, the near side experiences vastly stronger gravity than the far side, stretching the star into a long stream of stellar debris.",
+    "explanation": "To understand tidal disruption events, we track the fate of the shredded star. Roughly half of the stellar gas is expelled into space at high speeds, while the remaining material circles back to form a short-lived accretion disk around the black hole. As this captured gas plunges toward the event horizon, extreme friction heats it up, triggering a bright optical, ultraviolet, and X-ray flare that illuminates the galactic core for months."
+  },
+  {
+    "id": "13",
+    "title": "Fast Radio Bursts",
+    "img": "images/fast_radio_bursts.jpg",
+    "definition": "Fast Radio Bursts (FRBs) are extremely intense, millisecond-duration pulses of radio waves originating from distant extragalactic sources billions of light-years away.",
+    "cause": "The phenomena is primarily tied to highly energetic cosmic objects, particularly highly magnetized neutron stars known as magnetars, experiencing starquakes or explosive magnetic reconnection events that discharge sudden surges of coherent radio radiation.",
+    "explanation": "To understand Fast Radio Bursts, astrophysicists analyze their dispersion measure—the delay of lower-frequency radio waves caused by traveling through ionized cosmic dust. In just a fraction of a millisecond, a single FRB emits as much radio energy as the Sun generates over several days. While many bursts are one-time cataclysmic events, several repeating sources allow radio telescopes to pinpoint their host galaxies and study the interstellar medium."
+  },
+  {
+    "id": "14",
+    "title": "Stellar Nurseries",
+    "img": "images/stellar_nurseries.jpg",
+    "definition": "Stellar nurseries (or star-forming regions) are vast, glowing molecular clouds of interstellar gas and dust where gravity pulls matter together to ignite the birth of new stars and solar systems.",
+    "cause": "The phenomena is caused by localized gravitational collapse within dense, cold molecular gas clouds (mainly hydrogen). Shockwaves from nearby supernovae or passing galactic spiral arms compress the gas, triggering clumps to collapse under their own gravity.",
+    "explanation": "To understand stellar nurseries, we look at protostellar evolution inside giant nebulae. As a collapsing clump grows denser and hotter, it forms a protostar wrapped in a spinning disk of planet-forming gas. Once the core temperature reaches millions of degrees, nuclear fusion ignites, launching powerful stellar winds that blow away the surrounding dust envelope and reveal a newborn star cluster."
+  },
+  {
+    "id": "15",
+    "title": "Kilonova Explosions",
+    "img": "images/kilonova_explosions.avif",
+    "definition": "A kilonova is a transient astronomical event occurring when two compact stellar remnants merge, producing a violent explosion accompanied by intense electromagnetic radiation and gravitational waves.",
+    "cause": "The phenomena is caused by the catastrophic collision of two binary neutron stars or a neutron star and a black hole. As the two ultra-dense objects spiral into each other, tidal forces strip off neutron-rich material and hurl it into space at relativistic speeds.",
+    "explanation": "To understand kilonovae, we study heavy element synthesis via the rapid neutron-capture process (r-process). The neutron-rich debris rapidly fuses to form heavy chemical elements like gold, platinum, and uranium. The radioactive decay of these freshly created elements heats the expanding fireball, producing a glowing optical and infrared flash about 1,000 times brighter than a standard nova."
+  },
+  {
+    "id": "16",
+    "title": "Solar Flares and Coronal Mass Ejections",
+    "img": "images/solar_flares_cme.jpg",
+    "definition": "Solar Flares and Coronal Mass Ejections (CMEs) are explosive solar phenomena where the Sun releases tremendous bursts of radiation, high-energy particles, and magnetized plasma into interplanetary space.",
+    "cause": "The phenomena is caused by magnetic reconnection in the solar atmosphere. Twisted, highly stressed magnetic field lines near sunspots break, realign, and release massive amounts of stored magnetic energy in a matter of minutes.",
+    "explanation": "To understand solar flares and CMEs, we distinguish between radiation and plasma releases. Solar flares emit intense electromagnetic radiation across all wavelengths (X-rays, UV, and radio) that reaches Earth in just 8 minutes. CMEs, on the other hand, hurl billions of tons of solar plasma into space at millions of miles per hour. When targeted toward Earth, these plasma clouds compress Earth's magnetic shield, generating spectacular auroral displays and geomagnetic activity."
+  },
+  {
+    "id": "17",
+    "title": "Hypervelocity Stars",
+    "img": "images/hypervelocity_stars.jpg",
+    "definition": "Hypervelocity stars are rare, fast-moving stars traveling at extreme velocities—often exceeding 1,000 kilometers per second—allowing them to escape the gravitational pull of their host galaxy entirely.",
+    "cause": "The phenomena is caused by violent gravitational sling-shots, most commonly when a binary star system passes too close to a supermassive black hole (the Hills Mechanism). The black hole captures one star while flinging its companion outward at immense speeds.",
+    "explanation": "To understand hypervelocity stars, we track their trajectories back to galactic centers. As the supermassive black hole disrupts a binary system, tidal forces accelerate the surviving star far beyond typical galactic orbital velocities (~200 km/s). Travelling so fast, these rogue stars wander through interstellar space and eventually leave the galaxy altogether, drifting through intergalactic voids for eternity."
+  },
+  {
+    "id": "18",
+    "title": "Relativistic Jets",
+    "img": "images/relativistic_jets.jpg",
+    "definition": "Relativistic jets are super-heated streams of ionized matter accelerated to speeds exceeding 99% the speed of light, launched outward along the rotational axes of active black holes and neutron stars.",
+    "cause": "The phenomena is caused by dynamic interactions between rapidly spinning compact objects, magnetic fields, and surrounding accretion disks. Twisted magnetic field lines channel charged particles away from the event horizon before they can fall inside.",
+    "explanation": "To understand relativistic jets, we observe magnetohydrodynamics in extreme gravity. As gas swirls into an active galactic nucleus or microquasar, strong magnetic forces focus a portion of the charged plasma into narrow, highly collimated beams. These jets extend across thousands or even millions of light-years, carving huge cavities into the intergalactic medium and emitting powerful radio and X-ray radiation."
+  },
+  {
+    "id": "19",
+    "title": "Planetary Nebulae",
+    "img": "images/planetary_nebulae.jpg",
+    "definition": "A planetary nebula is an expanding shell of glowing ionized gas ejected from red giant stars during the final stages of their evolution, leaving behind a scorching white dwarf at the center.",
+    "cause": "The phenomena is caused when low- to intermediate-mass stars (like our Sun) run out of nuclear fuel. The outer atmospheric layers expand and are blown off by powerful stellar winds, dispersing into interstellar space over tens of thousands of years.",
+    "explanation": "To understand planetary nebulae, we look at the life cycle of Sun-like stars. Despite their historic name (given by early astronomers because they resembled giant gas planets), they have nothing to do with planets. The remaining hot core (a white dwarf) emits intense ultraviolet radiation that energizes the expanding gas shells, causing elements like oxygen, hydrogen, and nitrogen to glow in brilliant colors and complex geometric shapes."
+  },
+  {
+    "id": "20",
+    "title": "Magnetar Starquakes",
+    "img": "images/magnetar_starquakes.webp",
+    "definition": "Magnetar starquakes are violent ruptures on the solid iron crust of ultra-magnetic neutron stars that trigger immense bursts of high-energy gamma-rays and X-rays across the cosmos.",
+    "cause": "The phenomena is caused by extreme magnetic stress. A magnetar's magnetic field is up to a quadrillion times stronger than Earth's; as this field shifts and twists, it exerts colossal physical forces on the star's rigid outer crust until it snaps.",
+    "explanation": "To understand magnetar starquakes, we compare them to terrestrial earthquakes, but on an unimaginable physical scale. A fracture of just a fraction of a millimeter in the dense neutron star crust releases enough magnetic energy to induce a mega-flare. In 2004, a magnetar starquake (SGR 1806-20) released more energy in a tenth of a second than the Sun emits in 150,000 years, momentarily ionising Earth's upper atmosphere from 50,000 light-years away."
+  },
+  {
+    "id": "21",
+    "title": "Aurora",
+    "img": "images/aurora_borealis.jpg",
+    "definition": "The Aurora Borealis (Northern Lights) and Aurora Australis (Southern Lights) are atmospheric light displays that paint polar night skies with shimmering curtains, arcs, and ribbons of green, red, violet, and blue light.",
+    "cause": "The phenomena is caused by energetic charged particles from the solar wind colliding with atmospheric gas molecules. Guided along Earth's magnetic field lines into the polar regions, these high-speed electrons excite oxygen and nitrogen atoms in the upper atmosphere.",
+    "explanation": "To understand the auroras, we look at atmospheric quantum excitation. When energetic solar particles strike atmospheric gases between 100 and 300 kilometers altitude, they transfer energy to atmospheric atoms. As these excited atoms return to their ground state, they release photons of light. Oxygen atoms at lower altitudes emit the iconic vibrant green, while high-altitude oxygen emits deep crimson red; nitrogen molecules contribute rich blue and purple hues."
+  },
+  {
+    "id": "22",
+    "title": "Cosmic Rays and Air Showers",
+    "img": "images/cosmic_ray_air_showers.png",
+    "definition": "Cosmic Ray Air Showers are vast cascades of subatomic particles produced when high-energy cosmic rays traveling at nearly the speed of light strike Earth's upper atmosphere.",
+    "cause": "The phenomena is caused by atomic nuclei and ultra-high-energy protons accelerated across deep space by supernovae remnants, active galactic nuclei, or magnetars, colliding directly with atmospheric nitrogen and oxygen nuclei.",
+    "explanation": "To understand atmospheric air showers, we trace particle collision cascades. A single primary cosmic ray particle colliding with air molecules triggers a chain reaction, creating billions of secondary particles—pions, muons, electrons, and positrons—that shower down toward Earth's surface across square kilometers. Detecting these particle showers helps astrophysicists locate extreme particle accelerators in deep space."
+  },
+  {
+    "id": "23",
+    "title": "Supernova Remnants",
+    "img": "images/supernova_remnants.jpg",
+    "definition": "A supernova remnant is an expanding, highly dynamic structure composed of ejected stellar material and interstellar gas bounded by shock waves from a massive stellar explosion.",
+    "cause": "The phenomena is caused by a supernova explosion driving an ultra-fast blast wave into surrounding space at thousands of kilometers per second, sweeping up interstellar gas and dust along its perimeter.",
+    "explanation": "To understand supernova remnants, we observe interstellar shock dynamics over thousands of years. As the blast wave collides with interstellar medium, kinetic energy compresses and heats the gas to millions of degrees, making it glow vividly in X-rays and visible light. These expanding debris clouds (such as the Crab Nebula or Veil Nebula) seed interstellar space with heavy elements essential for building future stars and planets."
+  },
+  {
+    "id": "24",
+    "title": "Relativistic Beaming and Microquasars",
+    "img": "images/relativistic_beaming.jpg",
+    "definition": "Relativistic Beaming (or Doppler boosting) is an optical phenomenon where relativistic plasma jets emitted by compact objects appear dramatically brighter when directed toward the observer.",
+    "cause": "The phenomena is caused by special relativity effects acting on matter moving close to the speed of light, concentrating emitted radiation into a narrow forward cone along the direction of motion.",
+    "explanation": "To understand relativistic beaming, we examine how velocity distorts radiation patterns. In systems like microquasars or blazars, when a jet points almost directly toward Earth, light waves are blueshifted and compressed forward, making the jet appear exponentially brighter and sometimes creating the illusion of superluminal (faster-than-light) motion due to geometry."
+  },
+  {
+    "id": "25",
+    "title": "Protoplanetary Disk Photoevaporation",
+    "img": "images/photoevaporation.jpg",
+    "definition": "Photoevaporation is the rapid erosion and clearing of planet-forming protoplanetary disks surrounding young stars by intense ultraviolet and X-ray radiation.",
+    "cause": "The phenomena is caused by high-energy photons from a central newborn star—or neighboring massive hot OB stars—heating gas in the planet-forming disk until the thermal energy exceeds the local gravitational escape velocity.",
+    "explanation": "To understand disk photoevaporation, we examine the race between planet formation and disk dispersal. As high-energy radiation boils away hydrogen and helium gas from the disk's surface, it creates outward-flowing thermal winds. This process regulates how much material remains available for forming gas giant planets before the surrounding disk completely dissipates."
+  },
+  {
+    "id": "26",
+    "title": "Superluminous Supernovae",
+    "img": "images/superluminous_supernovae.jpg",
+    "definition": "Superluminous Supernovae (SLSNe) are exceptionally rare stellar explosions that shine up to 10 to 100 times brighter than standard supernovae, radiating massive amounts of energy over several months.",
+    "cause": "The phenomena is caused by extreme physical power sources, such as pair-instability breakdowns in ultra-massive stars or intense energy injection from a newly formed rapidly spinning magnetar trapped within the expanding explosion debris.",
+    "explanation": "To understand superluminous supernovae, astrophysicists study rare cosmic engines. In pair-instability supernovae, gamma-ray photons in extremely massive stellar cores transform into electron-positron pairs, causing a sudden drop in radiation pressure and triggering a total thermonuclear disruption without leaving a central remnant behind. Alternatively, continuous rotational energy shed by a central magnetar continuously heats the ejected shell, sustaining immense luminosity across deep space."
+  },
+  {
+    "id": "27",
+    "title": "Cosmic Void Expansion",
+    "img": "images/cosmic_voids.jpg",
+    "definition": "Cosmic voids are immense, low-density regions in the cosmic web containing very few galaxies, spanning tens to hundreds of millions of light-years across the observable universe.",
+    "cause": "The phenomena is caused by gravitational instability acting over cosmic time. Small density fluctuations in the early universe pulled matter toward high-density regions, leaving low-density regions increasingly empty as the universe expanded.",
+    "explanation": "To understand cosmic voids, we look at cosmic dynamic evolution under dark energy. Matter continuously flows out of these underdense regions toward giant galactic filaments and clusters. Because cosmic voids contain so little matter, the accelerating influence of dark energy dominates within them, causing voids to expand faster than surrounding dense regions and acting as pristine laboratories to study universe expansion dynamics."
+  },
+  {
+    "id": "28",
+    "title": "Stellar Cannibalism in Binary Systems",
+    "img": "images/stellar_cannibalism.jpg",
+    "definition": "Stellar cannibalism occurs in close binary systems when a dense stellar remnant or primary star gravitationally strips away material from its companion star, altering the evolutionary paths of both stars.",
+    "cause": "The phenomena is caused by Roche lobe overflow. As one star expands or orbits extremely close to a compact neighbor (like a white dwarf, neutron star, or black hole), its outer atmospheric layers cross the gravitational saddle point between them.",
+    "explanation": "To understand stellar cannibalism, we observe mass transfer dynamics. The captured gas swirls into an accretion disk before plunging onto the compact companion. This process can trigger recurring nova eruptions, transform quiet pulsars into fast-spinning millisecond pulsars, or repeatedly fuel violent X-ray binary bursts as captured stellar material undergoes thermonuclear flashes."
+  },
+  {
+    "id": "29",
+    "title": "Coronal Loops and Magnetic Reconnection",
+    "img": "images/coronal_loops.jpg",
+    "definition": "Coronal loops are giant, arching structures of superheated solar plasma anchored into the Sun's photosphere, tracing powerful localized magnetic field lines high into the solar corona.",
+    "cause": "The phenomena is caused by the solar dynamo and turbulent plasma convective motions beneath the solar surface, which push, twist, and project intense magnetic flux tubes outward into the solar atmosphere.",
+    "explanation": "To understand coronal loops, we examine magnetic confinement of plasma. Charged particles (electrons and ions) are trapped by magnetic forces, flowing along invisible field lines that glow brightly in extreme ultraviolet and X-ray wavelengths. When oppositely directed magnetic fields within these loops touch and snap together—a process called magnetic reconnection—they convert magnetic energy into heat and trigger solar flares."
+  },
+  {
+    "id": "30",
+    "title": "Superluminal Motion in Relativistic Jets",
+    "img": "images/superluminal_motion.avif",
+    "definition": "Superluminal motion is a striking observational illusion where components inside active galactic nucleus jets appear to move across the sky at speeds faster than light.",
+    "cause": "The phenomena is caused by geometric and light-travel-time effects acting on plasma knots launched outward at nearly the speed of light directed almost straight toward the observer.",
+    "explanation": "To understand superluminal motion, we analyze light propagation geometry. As the jet material moves toward Earth at speeds exceeding 90% the speed of light, it almost keeps pace with the light it emits. Consequently, light emitted at later points along its trajectory reaches Earth with very small time delays, creating the visual deception of faster-than-light speed without violating special relativity."
+  },
+  {
+    "id": "31",
+    "title": "Galactic Winds and Superbubbles",
+    "img": "images/galactic_winds.jpg",
+    "definition": "Galactic winds are large-scale outflows of gas driven out of galaxies into the intergalactic medium, sweeping up interstellar matter and carving immense superbubbles thousands of light-years across.",
+    "cause": "The phenomena is caused by combined energy feedback from violent cosmic events, specifically multiple concurrent supernovae explosions and intense stellar winds produced within massive starburst regions.",
+    "explanation": "To understand galactic winds, we study galactic feedback mechanisms. When dozens of massive stars die in quick succession within dense star clusters, their individual blast waves merge to form a glowing, super-heated superbubble. As this bubble expands past the galactic plane, it sweeps gas and heavy enriched elements out into the intergalactic medium, regulating future star formation within the host galaxy."
+  },
+  {
+    "id": "32",
+    "title": "Microquasars",
+    "img": "images/microquasars.jpg",
+    "definition": "Microquasars are scaled-down galactic-level quasar analogs located within our own galaxy, consisting of a stellar-mass black hole or neutron star accreting matter from a companion star.",
+    "cause": "The phenomena is caused by intense accretion processes in binary systems. Matter stripped from a companion star creates a glowing accretion disk around the compact object, which then launches twin relativistic plasma jets.",
+    "explanation": "To understand microquasars, we compare them directly to supermassive quasars. While distant supermassive quasars evolve over millions of years, microquasars undergo similar physical processes—such as jet launching, accretion disk heating, and flare cycles—over timescales of just days or weeks, offering astronomers a local laboratory to observe black hole physics in real time."
+  },
+  {
+    "id": "33",
+    "title": "Colliding Wind Binaries",
+    "img": "images/colliding_wind_binaries.jpg",
+    "definition": "Colliding wind binaries are star systems composed of two massive, highly luminous stars whose powerful stellar winds collide violently, producing high-energy shock waves.",
+    "cause": "The phenomena is caused by intense radiation pressure driving powerful stellar winds from massive stars (such as Wolf-Rayet or O-type stars). When two such stars orbit close together, their supersonic winds slam directly into each other.",
+    "explanation": "To understand colliding wind binaries, we analyze shock thermodynamics. The wind collision zone creates a dense shock front where gas is heated to tens of millions of degrees, radiating brightly in X-rays. As the stars orbit each other, the rotating wind intersection forms a striking, spiral dust pattern known as a 'pinwheel nebula' (such as WR 104)."
+  },
+  {
+    "id": "34",
+    "title": "Planetary Migration",
+    "img": "images/planetary_migration.jpg",
+    "definition": "Planetary migration is a dynamical process where forming planets alter their orbital distances from their host stars, drifting inward or outward through interactions with gas or debris disks.",
+    "cause": "The phenomena is caused by gravitational torque exchanges between a newly formed planet and the surrounding gas/planetesimals in a protoplanetary disk, pushing the planet out of its original birth orbit.",
+    "explanation": "To understand planetary migration, we examine how exoplanetary architectures form. Early gas disk drag can cause giant gas planets born far from their star to spiral inward, explaining the existence of 'Hot Jupiters' orbiting just days away from their host stars. This process reshapes solar systems and can scatter terrestrial planets into new orbits or fling them into space."
+  },
+  {
+    "id": "35",
+    "title": "Gamma-Ray Halos around Pulsars",
+    "img": "images/gamma_ray_halos.jpg",
+    "definition": "Pulsar gamma-ray halos are massive, extended zones of high-energy radiation surrounding middle-aged pulsars, produced as ultra-energetic particles escape into nearby interstellar space.",
+    "cause": "The phenomena is caused by inverse Compton scattering. High-energy electrons and positrons accelerated by the pulsar's rapid magnetic spin escape into the surrounding medium and collide with ambient low-energy photons, boosting them up to TeV gamma-ray energy levels.",
+    "explanation": "To understand pulsar gamma-ray halos, we examine cosmic ray propagation in deep space. These diffuse halos extend across dozens of light-years around pulsars like Geminga. Studying how high-energy particles diffuse through interstellar magnetic fields within these halos helps scientists resolve long-standing puzzles about cosmic-ray electron and positron fluxes detected near Earth."
+  },
+  {
+    "id": "36",
+    "title": "Solar Eclipses",
+    "img": "images/solar_eclipses.webp",
+    "definition": "A solar eclipse is a striking astronomical event that occurs when the Moon passes directly between Earth and the Sun, temporarily casting its shadow onto Earth's surface and obscuring the solar disk.",
+    "cause": "The phenomena is caused by orbital alignment (syzygy). When the Moon reaches a node in its orbit where its path intersects Earth's orbital plane directly in front of the Sun, the lunar shadow (umbra and penumbra) sweeps across Earth.",
+    "explanation": "To understand solar eclipses, we examine angular size symmetry in our sky. By extraordinary cosmic coincidence, the Sun is roughly 400 times larger than the Moon, but also 400 times farther away, making them appear virtually identical in angular size. During a total solar eclipse, the Moon completely blocks the blinding solar photosphere, revealing the Sun's ghostly outer atmosphere (the corona), solar prominences, and Baily's beads."
+  },
+  {
+    "id": "37",
+    "title": "Lunar Eclipses",
+    "img": "images/lunar_eclipses.webp",
+    "definition": "A lunar eclipse is a celestial phenomenon that occurs when Earth passes directly between the Sun and the Moon, casting Earth's dark shadow across the lunar surface and turning the Moon a deep reddish color.",
+    "cause": "The phenomena is caused by Earth blocking direct sunlight from reaching the Moon during a full moon phase. As the Moon enters Earth's shadow cone (the umbra), direct solar illumination is blocked.",
+    "explanation": "To understand lunar eclipses and the 'Blood Moon' effect, we examine atmospheric Rayleigh scattering. Earth's atmosphere filters out shorter blue light waves from sunlight while bending (refracting) longer red light waves inward toward Earth's shadow. This redirected red sunlight illuminates the eclipsed lunar disk, creating a vivid coppery-red color visible to half the planet at once."
+  },
+  {
+    "id": "38",
+    "title": "Cosmic Reionization",
+    "img": "images/cosmic_reionization.webp",
+    "definition": "Cosmic Reionization marks a pivotal evolutionary epoch in the early universe when neutral hydrogen gas was energized and ionized by radiation emitted from the very first stars and early galaxies.",
+    "cause": "The phenomena is caused by high-energy ultraviolet radiation from the first generation of massive stars (Population III stars) and early active galactic nuclei, which broke the neutral hydrogen atoms of the cosmic dawn back into protons and electrons.",
+    "explanation": "To understand cosmic reionization, we trace the universe's transition from dark ages to transparency. Following the Big Bang, the universe cooled into opaque neutral gas. As first-generation stars ignited inside early dark matter halos, their intense UV photons burned away this cosmic fog between 400 million and 1 billion years after the Big Bang, rendering the intergalactic medium transparent to light."
+  },
+  {
+    "id": "39",
+    "title": "Shockwaves in the Interstellar Medium",
+    "img": "images/interstellar_shocks.jpg",
+    "definition": "Interstellar shockwaves are sharp, high-speed pressure fronts traveling through deep space that violently compress, heat, and ionize interstellar gas and dust clouds.",
+    "cause": "The phenomena is caused by supersonic kinetic energy releases from cataclysmic events, such as expanding supernova blast fronts, energetic stellar winds from massive OB stars, or high-speed cloud collisions.",
+    "explanation": "To understand interstellar shockwaves, we study energy propagation in low-density space. As supersonic blast waves race into cold interstellar gas at hundreds of kilometers per second, they rapidly convert kinetic energy into thermal energy, heating gas to millions of degrees and triggering intense emissions in X-ray and radio wavelengths while triggering local star formation."
+  },
+  {
+    "id": "40",
+    "title": "Gravitational Radiation Waves",
+    "img": "images/gravitational_waves.jpg",
+    "definition": "Gravitational radiation waves are invisible ripples in the fabric of spacetime that propagate outward at the speed of light, carrying energy away from rapid, highly energetic cosmic acceleration events.",
+    "cause": "The phenomena is caused by non-axisymmetric acceleration of massive compact objects, most notably colliding binary black holes, merging neutron star pairs, or asymmetric supernova explosions.",
+    "explanation": "To understand gravitational radiation waves, we look at dynamic spacetime distortions predicted by Einstein's General Relativity. As colossal masses spiral inward toward collision, they stretch and compress spacetime geometry. Laser interferometers (like LIGO and Virgo) detect these subatomic spacetime distortions on Earth, opening a non-electromagnetic window to observe deep space interactions."
+  },
+  {
+    "id": "41",
+    "title": "Evaporating Exoplanet Atmospheres",
+    "img": "images/exoplanet_evaporation.jpg",
+    "definition": "Atmospheric photoevaporation on close-in exoplanets is a process where intense extreme-ultraviolet radiation from a host star strips away the volatile atmospheric gas envelope of a nearby planet.",
+    "cause": "The phenomena is caused by extreme stellar irradiation. Gas giants or sub-Neptunes orbiting very close to their parent stars absorb massive amounts of high-energy X-ray and UV radiation, heating their upper atmospheres to tens of thousands of degrees.",
+    "explanation": "To understand exoplanet atmospheric evaporation, we study atmospheric escape dynamics. As high-energy radiation continuously heats volatile hydrogen and helium gases, thermal expansion causes the gases to expand beyond the planet's gravitational escape radius. This creates a trailing cometary-like gas tail behind the planet and can transform gas-rich sub-Neptunes into bare, rocky super-Earth cores over time."
+  }
+]

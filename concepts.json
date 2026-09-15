@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Spacetime Continuum",
+    "tagline": "The Fabric of Reality",
+    "description": "A four-dimensional mathematical framework combining three spatial dimensions with time. In Einstein's theory of general relativity, space and time are dynamic and interwoven rather than rigid. Heavy masses like stars and planets curve this fabric, causing surrounding objects to follow bent trajectories that we perceive as gravitational acceleration.",
+    "fact": "Fact: Gravity is not a traditional force, but rather the curvature of spacetime caused by mass.",
+    "image": "conceptsImages/spacetime-continuum.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Cosmological Principle",
+    "tagline": "Uniformity of the Cosmos",
+    "description": "The fundamental postulate stating that on sufficiently large scales, the distribution of matter in the universe is both homogeneous (identical density everywhere) and isotropic (looking identical in every direction). This baseline concept implies there are no special or privileged central positions in our cosmos, anchoring modern mathematical models.",
+    "fact": "Fact: This principle forms the core foundation of modern physical cosmology and Einstein's equations.",
+    "image": "conceptsImages/cosmological-principle.jpg"
+  },
+  {
+    "id": 3,
+    "name": "General Relativity",
+    "tagline": "Einstein's Vision of Gravity",
+    "description": "Albert Einstein's landmark geometric theory of gravitation that redefined classical Newtonian physics. It predicts that acceleration and gravitational forces are locally indistinguishable, showing how massive distributions of matter warp surrounding geometry, alter time flow, and bend light rays traveling across deep intergalactic vacuum space.",
+    "fact": "Fact: GPS navigation depends on general relativity to correct time dilation offsets every day.",
+    "image": "conceptsImages/general-relativity.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Quantum Entanglement",
+    "tagline": "Spooky Action at a Distance",
+    "description": "A phenomenon in quantum mechanics where subatomic particles become deeply interconnected such that measuring the physical state of one instantly dictates the state of another. This correlation occurs instantaneously regardless of distance separating them, directly challenging traditional classical ideas of local realism.",
+    "fact": "Fact: Einstein rejected this concept initially, calling it 'spooky action at a distance'.",
+    "image": "conceptsImages/quantum-entanglement.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Entropy & Arrow of Time",
+    "tagline": "The Unidirectional Flow",
+    "description": "The physical concept rooted in the second law of thermodynamics establishing that total disorder (entropy) in closed systems must strictly increase over time. This directional increase defines the irreversible forward movement of cosmic time, explaining why physical processes move from order to chaos and cannot spontaneously reverse.",
+    "fact": "Fact: The universe started in a state of extremely low entropy during the Big Bang.",
+    "image": "conceptsImages/entropy-arrow-of-time.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Multiverse Hypothesis",
+    "tagline": "Beyond the Observable World",
+    "description": "A theoretical framework in modern physics proposing that our entire observable universe might represent only one isolated domain among an infinite expanse of parallel universes. Different regions could contain distinct fundamental physical constants, alternative dimensions, and divergent historical timelines within a massive overarching cosmic structure.",
+    "fact": "Fact: String theory suggests there could be as many as 10^500 distinct universe configurations.",
+    "image": "conceptsImages/multiverse-hypothesis.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Cosmic Inflation",
+    "tagline": "Exponential Early Growth",
+    "description": "A cosmological model describing a period of rapid, exponential expansion of space occurring in a fraction of a second following the Big Bang. This rapid expansion smoothed out extreme temperature fluctuations and solved key cosmic puzzles, explaining why the background radiation across deep space appears remarkably uniform today.",
+    "fact": "Fact: Inflation expanded space faster than the speed of light without violating relativity laws.",
+    "image": "conceptsImages/cosmic-inflation.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Anthropic Principle",
+    "tagline": "Fine-Tuned for Life",
+    "description": "A philosophical and physical framework suggesting that fundamental physical constants must fall within exceptionally narrow boundaries, because if they differed slightly, structure formation, chemistry, and conscious observers would be impossible. It explores whether our universe is uniquely fine-tuned or merely part of a larger selection.",
+    "fact": "Fact: If the charge of an electron changed slightly, atoms and stars couldn't exist.",
+    "image": "conceptsImages/anthropic-principle.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Hawking Radiation",
+    "tagline": "Quantum Evaporation of Black Holes",
+    "description": "A theoretical process combining quantum field theory and relativity, predicting black holes slowly emit thermal radiation near their event horizon. Virtual particle pairs created by quantum energy fluctuations become separated, causing the black hole to lose mass over immense timescales and eventually vanish completely.",
+    "fact": "Fact: Over trillions of years, Hawking radiation causes black holes to lose mass and evaporate completely.",
+    "image": "conceptsImages/hawking-radiation.webp"
+  },
+  {
+    "id": 10,
+    "name": "Heat Death of the Universe",
+    "tagline": "The Ultimate Cosmic State",
+    "description": "A theoretical endgame model for the cosmos where entropy reaches its absolute maximum level over unimaginable timescales. All thermal gradients disappear, stars exhaust their nuclear fuel, matter decays, and temperature approaches absolute zero, rendering further energy extraction or physical work impossible.",
+    "fact": "Fact: At this point, no thermodynamic work can be extracted, bringing all activity to a permanent stop.",
+    "image": "conceptsImages/heat-death-of-the-universe.jpg"
+  }
+]
