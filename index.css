@@ -153,6 +153,7 @@ header img:hover {
   display: flex;
   flex-direction: column;
   padding: var(--matcing-pading);
+  padding-bottom: 5px;
   gap: 30px;
 }
 
