@@ -25,7 +25,7 @@ p {
   --second-text: #0b0813;
   --theme: #f038ff;
   --border-r: 12px;
-  --matcing-pading: 0 60px;
+  --matcing-pading: 0 60px 20px;
 }
 
 body {
